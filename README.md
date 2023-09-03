@@ -1,5 +1,5 @@
-![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/a9976e63-c845-4b10-a0cc-309f6cde3c09)# 시도
-
+# 시도
+>
 
 # 1. 팀 소개
 
