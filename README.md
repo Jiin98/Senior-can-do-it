@@ -1,4 +1,4 @@
-# 시도
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/a9976e63-c845-4b10-a0cc-309f6cde3c09)# 시도
 
 
 # 1. 팀 소개
@@ -20,7 +20,8 @@
 > **서비스명**
 > 
 
-![페르소나자산 1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3d74b02-c481-466c-a914-d3510b84f600/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB_1.png)
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/3d7c4326-adc4-4fc2-be79-2a219fcdce88)
+
 
 시도 - 시니어도 할 수 있다
 
@@ -29,9 +30,11 @@
 > **페르소나**
 > 
 
-![페르소나대지 1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57fbff74-6336-43ae-97f6-f6d64c07f3f5/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A1%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5_1.png)
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/e7599bf3-07f2-4bf3-a0bc-563ccab72989)
 
-![페르소나대지 1_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/537987f7-ca69-45f3-a3db-386f9e2c1b5d/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A1%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5_1_1.png)
+
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/5b221b69-0666-4edb-b355-728975f557e1)
+
 
 > **한줄 소개**
 > 
@@ -41,7 +44,8 @@
 > **개발 동기**
 > 
 
-![**출처 : 한국지능정보사회진흥원 / 2022년 디지털_정보격차_보고서*](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ada2ca66-9e76-4f2a-9656-0abc41293bb7/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB_8.png)
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/91987ee4-689a-4226-a671-aa04938276db)
+
 
 **출처 : 한국지능정보사회진흥원 / 2022년 디지털_정보격차_보고서*
 
@@ -56,7 +60,8 @@
 
 
 
-![자산 9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98df62ed-04e2-417b-b5b7-99452af657b1/%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB_9.png)
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/60658ed7-dea9-4055-8e9a-d3b5857f9760)
+
 
 일상생활에서 쉽게 접하는 다양한 디지털 인터페이스를 주제별로 나누어 연습한다. 각 주제에 맞는 세부 기능을 반복 학습할 수 있으며 이를 통해 고령층이 디지털 인터페이스에 익숙해지도록 한다.
 
@@ -64,14 +69,12 @@
 
 - **색상 및 글씨 크기 :** 고령층의 사용환경을 감안해 대비감이 강한 색채를 주로 사용하고, 글씨 크기를 키워 보다 높은 가시성을 확보했다.
     
-    ![타 기관 어플리케이션과 시도 UI의 디자인 비교](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/394b4b7d-232b-4f06-a2f8-f998ed946fb4/IMG_8992.png)
-    
-    타 기관 어플리케이션과 시도 UI의 디자인 비교
+
     
 - **갈갈이 :** 고령층이 스스로 학습하는 데에 어려움이 없도록 가이드를 하는 캐릭터로, 부산을 상징하는 동물 갈매기를 마스코트로 차용
     
-    ![발표자산 12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b54b4d76-318d-4e7e-a414-1f0c99c0efe2/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB_12.png)
-    
+    ![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/74b92773-6adb-4b7c-8976-a9a351296a63)
+
 
 - **구현 과정 :**
 
@@ -111,7 +114,8 @@
     5. ‘학습편’에서 가이드와 함께 인터페이스를 학습한 후, 유저가 원하는 시기에 ‘실전편’으로 넘어가 안내 멘트 없이 스스로 기능을 수행할 수 있도록 한다. 일련의 과정을 통해 인터페이스를 충분히 이해하고 숙지할 수 있는 환경을 마련한다.
     6. ‘내 정보**’**로 학습 과정을 시각적으로 확인할 수 있고,  포인트 제도를 통해 성취도를 계속해서 느낄 수 있도록 구성하였다. 엔터테이먼트적 요소를 넣어 유저가 계속해서 서비스를 사용할 수 있게 하였다.
         
-        ![[내 정보] 화면의 구성 시안](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cd0c3c9-44f4-4ec6-b612-dd9b693f2a0d/%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB_93.png)
+        ![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/1c919a41-9941-40a0-9f3c-ddbcccf07125)
+
         
         [내 정보] 화면의 구성 시안
         
@@ -125,4 +129,5 @@
 
 
 
-![페르소나자산 6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/947a59cc-a9aa-4fda-8b08-f758baebe6a3/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB_6.png)
+![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/b4467edc-14b7-4637-9030-812ca2d95d85)
+
