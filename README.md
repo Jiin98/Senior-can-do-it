@@ -27,13 +27,6 @@
 
 ### #노인과 디지털 #디지털 약자 #반복학습 #가이드 #고령자 #디지털 리터러시
 
-> **페르소나**
-> 
-
-![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/e7599bf3-07f2-4bf3-a0bc-563ccab72989)
-
-
-![image](https://github.com/Jiin98/Senior-can-do-it/assets/121376065/5b221b69-0666-4edb-b355-728975f557e1)
 
 
 > **한줄 소개**
